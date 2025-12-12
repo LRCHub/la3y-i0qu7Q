@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Genghis Khan",
+  "base_artist": "Miike Snow",
+  "createdAt": "2025-12-12T13:05:05.610805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Jedi Mind Tricks feat. Tragedy Khadafi",
+      "has_synced": true,
+      "path": "select/01_Genghis_Khan_Jedi_Mind_Tricks_feat._Tragedy_Khadafi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Genghis Khan ft. Tragedy Khadafi",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/02_Genghis_Khan_ft._Tragedy_Khadafi_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Nico",
+      "has_synced": false,
+      "path": "select/03_Genghis_Khan_Nico.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/04_Genghis_Khan_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Miike Snow",
+      "has_synced": true,
+      "path": "select/05_Genghis_Khan_Miike_Snow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Ace Frehley",
+      "has_synced": false,
+      "path": "select/06_Genghis_Khan_Ace_Frehley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Iron Mask",
+      "has_synced": true,
+      "path": "select/07_Genghis_Khan_Iron_Mask.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Tierra Santa",
+      "has_synced": true,
+      "path": "select/08_Genghis_Khan_Tierra_Santa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "マイク・スノウ",
+      "has_synced": true,
+      "path": "select/09_Genghis_Khan_マイク・スノウ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Genghis Khan vs the Easter Bunny",
+      "artist": "Epic Rap Battles of History feat. Nice Peter & EpicLLOYD",
+      "has_synced": false,
+      "path": "select/10_Genghis_Khan_vs_the_Easter_Bunny_Epic_Rap_Battles_of_History_feat._Nice_Peter_&_EpicLLOYD.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Genghis Khan vs the Easter Bunny (feat. Nice Peter & Epiclloyd)",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": false,
+      "path": "select/11_Genghis_Khan_vs_the_Easter_Bunny_(feat._Nice_Peter_&_Epiclloyd)_Epic_Rap_Battles_of_History.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Dschinghis Khan",
+      "has_synced": true,
+      "path": "select/12_Genghis_Khan_Dschinghis_Khan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Genghis Khan vs the Easter Bunny",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/13_Genghis_Khan_vs_the_Easter_Bunny_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Genghis Khan (Yacht Club Remix)",
+      "artist": "Miike Snow",
+      "has_synced": true,
+      "path": "select/14_Genghis_Khan_(Yacht_Club_Remix)_Miike_Snow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Genghis Khan - Yacht Club Remix",
+      "artist": "Miike Snow",
+      "has_synced": true,
+      "path": "select/15_Genghis_Khan_-_Yacht_Club_Remix_Miike_Snow.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Genghis Khan",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/16_Genghis_Khan_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Genghis Khan",
+      "artist": "Miike Snow",
+      "has_synced": false,
+      "path": "select/pl_01_Genghis_Khan_Miike_Snow.txt"
+    }
+  ]
+}
